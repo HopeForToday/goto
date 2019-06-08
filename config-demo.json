@@ -1,0 +1,8 @@
+{
+    // Index directories
+    "sources": [
+        "/source/path1",
+        "/source/path2",
+        "/source/path3"
+  ]
+}
